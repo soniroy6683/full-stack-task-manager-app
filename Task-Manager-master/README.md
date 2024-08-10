@@ -1,8 +1,6 @@
 # Task-Manager App
 This is a full stack application developed with Mongo, Express, React and Nodejs stack. This app provides easy way to manager tasks.
 
-Here is the Youtube link for Application Demo:
-https://youtu.be/P7kuk5riZkU
 
 
 ## Handling Mongo URI and SECRET
